@@ -1,5 +1,1 @@
 * -text
-
-# Preserve line endings exactly as in the repod
-*.sh text eol=lf
-*.bat text eol=crlf
