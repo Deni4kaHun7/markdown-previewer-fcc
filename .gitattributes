@@ -1,0 +1,4 @@
+* text eol=lf
+# Preserve line endings exactly as in the repo
+*.sh text eol=lf
+*.bat text eol=crlf
